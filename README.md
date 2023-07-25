@@ -1,4 +1,4 @@
-# Hi there <img src="wave.gif" width="20px" height="20px" />
+# Hi there <img src="wave.gif" width="30px" height="30px" />
 
 I'm Harmless05, a developer from the Baltic.
 
