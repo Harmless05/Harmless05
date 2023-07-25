@@ -8,7 +8,7 @@ I'm Harmless05, a developer from the Baltic.
   - Discord: harmless0
   - Website: [harmlessdev.xyz](https://harmlessdev.xyz)
 - ⚡ Fun fact: I love cats and stormy weather.
-- 😊 Hobby: I like to create smaller software and little scripts that make my life easier or more fun.
+- 😊 Hobby: I like to make small software and scripts that make my life easier or more fun!
 
 ## My skills and tools
 
