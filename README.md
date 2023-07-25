@@ -13,5 +13,5 @@ I'm Harmless05, a developer from the Baltic.
 ## My skills and tools
 
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-- ![Lua](https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua)
-- ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=c-sharp)
+- ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)
+- ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
