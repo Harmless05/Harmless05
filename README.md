@@ -11,7 +11,7 @@ I'm Harmless05, a developer from the Baltic.
 - 😊 Hobby: I like to make small software and scripts that make my life easier or more fun!
 - ⚡ Fun fact: I love cats and stormy weather.
 - 📫 How to reach me:
-  - Discord Server [Harmless' Hub](https://discord.gg/a2XevWa4zQ)
+  - Discord Server [Harmless' Hub](discord.harmlessdev.xyz)
   - Discord: [harmless0](https://discordapp.com/users/290429266036916224)
   - Website: [harmlessdev.xyz](https://harmlessdev.xyz)
 
