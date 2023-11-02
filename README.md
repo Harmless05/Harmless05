@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="wave.gif" width="30px" height="30px" /></h1>
+<h1 align="center"> Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30px" height="30px" /></h1>
 
 <h3 align="center">
 I'm Harmless05, a developer from the Baltic.
