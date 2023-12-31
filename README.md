@@ -22,6 +22,7 @@ I'm Harmless05, a developer from the Baltic.
 <p align="center">
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=Python&style=for-the-badge&logoColor=yellow"/></a> 
 <a target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-%2312100E.svg?logo=lua&logoColor=blue&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="PowerShell" src="https://img.shields.io/badge/Lua-%2312100E.svg?logo=powershell&logoColor=0da4ff&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-%2312100E.svg?logo=c-sharp&logoColor=purple&style=for-the-badge"/></a> 
 </p>
 
