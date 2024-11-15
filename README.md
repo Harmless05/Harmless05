@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30px" height="30px" /></h1>
 
 <h3 align="center">
-I'm Harmless05, a developer from the Baltic.
+I'm Harmless05, a developer from Europe.
 </h3>
 
 
-- 🔭 I’m currently working on a DLL injector that allows me to inject DLLs into any running process on Windows.
+- 🔭 I’m currently working on a YimMenu focused DLL injector that allows to inject DLLs into any running process on Windows.
 - 📃 I'm also creating Lua scripts for a GTA5 Mod menu repo called [YimMenu](https://github.com/YimMenu/YimMenu). You can check out my repo [here](https://github.com/YimMenu-Lua/Harmless-Scripts) where I share some of my scripts.
 - 🎓 Education: I am currently studying to become a certified IT Systems Specialist.
 - 😊 Hobby: I enjoy writing small software and scripts that make everyday life easier and more fun!
@@ -31,10 +31,10 @@ I'm Harmless05, a developer from the Baltic.
 🚧 Some of my projects 🚧
 </h2>
 
-- DLL Injector
-- Network tool/analyzer
-- Powershell script to update YimMenu
-- Lua scripts for YimMenu
+- [Launcher for YimMenu](https://github.com/Harmless05/YAU)
+- [DLL Injector](https://github.com/Harmless05/calipso-injector)
+- [Collection of Network Tools](https://github.com/Harmless05/H2XC)
+- [Lua scripts for YimMenu](https://github.com/YimMenu-Lua/Harmless-Scripts)
 
 <h2 align="center">
 🛠 Tools I use 🛠
