@@ -5,8 +5,7 @@ I'm Harmless05, a developer from Europe.
 </h3>
 
 
-- 🔭 I’m currently working on a YimMenu focused DLL injector that allows to inject DLLs into any running process on Windows.
-- 📃 I'm also creating Lua scripts for a GTA5 Mod menu repo called [YimMenu](https://github.com/YimMenu/YimMenu). You can check out my repo [here](https://github.com/YimMenu-Lua/Harmless-Scripts) where I share some of my scripts.
+- 🔭 I’m currently working... nothing. RIP YimMenu 🙏
 - 🎓 Education: I am currently studying to become a certified IT Systems Specialist.
 - 😊 Hobby: I enjoy writing small software and scripts that make everyday life easier and more fun!
 - ⚡ Fun fact: I love cats and stormy weather.
@@ -24,7 +23,7 @@ I'm Harmless05, a developer from Europe.
 <a target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-%2312100E.svg?logo=lua&logoColor=blue&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="PowerShell" src="https://img.shields.io/badge/PS-%2312100E.svg?logo=powershell&logoColor=0da4ff&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-%2312100E.svg?logo=csharp&logoColor=purple&style=for-the-badge"/></a>
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/MySQL-%2312100E.svg?logo=mysql&logoColor=00618a&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-%2312100E.svg?logo=mysql&logoColor=00618a&style=for-the-badge"/></a> 
 </p>
 
 <h2 align="center">
