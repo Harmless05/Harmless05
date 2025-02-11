@@ -10,9 +10,9 @@ I'm Harmless05, a developer from Europe.
 - 😊 Hobby: I enjoy writing small software and scripts that make everyday life easier and more fun!
 - ⚡ Fun fact: I love cats and stormy weather.
 - 📫 How to reach me:
-  - Discord Server: [Harmless' Hub](https://discord.harmlessdev.xyz)
+  - Discord Server: [Harmless' Hub](https://discord.harmlessdev.eu)
   - Discord: [harmless0](https://discordapp.com/users/290429266036916224)
-  - Website: [harmlessdev.xyz](https://harmlessdev.xyz)
+  - Website: [harmlessdev.eu](https://harmlessdev.eu)
 
 <h2 align="center">
 📜 Languages I am familiar with 📜
